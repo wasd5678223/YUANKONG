@@ -1,0 +1,24 @@
+# Visual Studio local settings and generated files
+**/.vs/
+**/.vscode/
+**/Debug/
+**/Release/
+**/x64/
+**/Win32/
+**/ipch/
+**/*.user
+**/*.suo
+**/*.aps
+**/*.obj
+**/*.pch
+**/*.pdb
+**/*.ilk
+**/*.idb
+**/*.tlog/
+**/*.exe
+**/*.dll
+**/*.lib
+**/*.log
+/.reasonix/
+/reasonix.toml
+desktop.ini
